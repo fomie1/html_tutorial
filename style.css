@@ -1,4 +1,10 @@
-h1, p {
-    color: green;
+body {
+    
+}
+
+
+h1 {
+    border: 3px solid purple;
+    border-radius: 10px;
 }
 
